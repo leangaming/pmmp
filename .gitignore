@@ -1,0 +1,15 @@
+.DS_STORE
+
+//pmmp configuration
+players/
+plugins/
+resource_packs/
+worlds/
+
+banned-ips.txt
+banned-players.txt
+ops.txt
+white-list.txt
+
+pocketmine.yml
+server.properties
