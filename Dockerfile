@@ -1,5 +1,5 @@
 FROM frolvlad/alpine-glibc:latest
-LABEL maintainer "Karolis Stasaitis <stkarolis@gmail.com>"
+LABEL maintainer "Karolis Stasaitis <contact@carlossless.io>"
 
 RUN adduser pmmp -D
 
